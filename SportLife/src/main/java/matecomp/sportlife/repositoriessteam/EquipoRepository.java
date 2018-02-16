@@ -7,4 +7,6 @@ import matecomp.sportlife.modelsteam.Equipo;
 @Repository
 public interface EquipoRepository extends MongoRepository<Equipo, String> {
 
+
+
 }
