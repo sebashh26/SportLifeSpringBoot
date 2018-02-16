@@ -16,6 +16,8 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 public class Equipo {
     @Id
     private String id;
+	
+	
     
     @NotBlank
     @Size(max=100)
